@@ -1,1 +1,43 @@
 # 77-not-Found
+# 🛡️ Online Order Fraud Detection Web App
+
+A Machine Learning powered web application that detects the risk of fraud in online orders using user input features like order amount, COD status, past returns, and address mismatch.
+
+Built with Flask + Scikit-learn + HTML/CSS.
+
+---
+
+## 🚀 Features
+
+- 🔍 Predicts fraud risk in online orders
+- 🤖 Machine Learning model using Scikit-learn
+- 🌐 Flask-based web interface
+- 🎨 Clean and simple UI
+- ⚡ Real-time prediction
+
+---
+
+## 🧠 Input Features
+
+| Feature | Description |
+|----------|------------|
+| Order Amount | Total price of the order |
+| COD | Cash on Delivery (1 = Yes, 0 = No) |
+| Past Returns | Number of previous returns |
+| Address Mismatch | Shipping & billing address mismatch (1 = Yes, 0 = No) |
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 3
+- Flask
+- Scikit-learn
+- Pandas
+- HTML / CSS
+- Virtual Environment (venv)
+
+---
+
+## 📂 Project Structure
+
